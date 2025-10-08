@@ -1,0 +1,249 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 104df7100a24144459b7bbe182996f5c, type: 3}
+  m_Name: DataBase
+  m_EditorClassIdentifier: 
+  objectsData:
+  - <Name>k__BackingField: Ejercicio
+    <ID>k__BackingField: 0
+    <Size>k__BackingField: {x: 2, y: 1}
+    <Prefab>k__BackingField: {fileID: 8137166433298059807, guid: e806c8675723579428fecacd8ed064ca, type: 3}
+    <Volume>k__BackingField: 22.03
+    <Height>k__BackingField: 2.1
+    <Area>k__BackingField: 10.49
+    <Width>k__BackingField: 2.35
+    <Length>k__BackingField: 4.464
+    <Oxygen>k__BackingField: 4.5
+    <Energy>k__BackingField: 6
+    <Water>k__BackingField: 1
+    <Food>k__BackingField: 0
+  - <Name>k__BackingField: Social
+    <ID>k__BackingField: 1
+    <Size>k__BackingField: {x: 3, y: 2}
+    <Prefab>k__BackingField: {fileID: 8587106253015613151, guid: 9a7fa339f8bce6b4f97329cd6b8364d5, type: 3}
+    <Volume>k__BackingField: 38.91
+    <Height>k__BackingField: 2.1
+    <Area>k__BackingField: 18.529
+    <Width>k__BackingField: 2.35
+    <Length>k__BackingField: 7.884
+    <Oxygen>k__BackingField: 2
+    <Energy>k__BackingField: 2.5
+    <Water>k__BackingField: 0.5
+    <Food>k__BackingField: 0.2
+  - <Name>k__BackingField: Desechos
+    <ID>k__BackingField: 2
+    <Size>k__BackingField: {x: 2, y: 1}
+    <Prefab>k__BackingField: {fileID: 6070730274606428652, guid: 24e9f795e03a6ff4f8b793b68041c196, type: 3}
+    <Volume>k__BackingField: 7.41
+    <Height>k__BackingField: 2.1
+    <Area>k__BackingField: 3.529
+    <Width>k__BackingField: 2.35
+    <Length>k__BackingField: 1.502
+    <Oxygen>k__BackingField: 0.6
+    <Energy>k__BackingField: 1
+    <Water>k__BackingField: 2
+    <Food>k__BackingField: 0
+  - <Name>k__BackingField: Higiene
+    <ID>k__BackingField: 3
+    <Size>k__BackingField: {x: 2, y: 1}
+    <Prefab>k__BackingField: {fileID: 1122071006838244209, guid: ce9a7d290c99d3d4db2a540d7a232129, type: 3}
+    <Volume>k__BackingField: 31.78
+    <Height>k__BackingField: 2.1
+    <Area>k__BackingField: 15.133
+    <Width>k__BackingField: 2.35
+    <Length>k__BackingField: 6.44
+    <Oxygen>k__BackingField: 1.2
+    <Energy>k__BackingField: 1
+    <Water>k__BackingField: 6
+    <Food>k__BackingField: 0
+  - <Name>k__BackingField: Logistica
+    <ID>k__BackingField: 4
+    <Size>k__BackingField: {x: 2, y: 1}
+    <Prefab>k__BackingField: {fileID: 8466836588014328158, guid: f37dc306481907746871cf4fedf0f7cc, type: 3}
+    <Volume>k__BackingField: 11.55
+    <Height>k__BackingField: 2.1
+    <Area>k__BackingField: 5.5
+    <Width>k__BackingField: 2.35
+    <Length>k__BackingField: 2.34
+    <Oxygen>k__BackingField: 2
+    <Energy>k__BackingField: 4
+    <Water>k__BackingField: 0.6
+    <Food>k__BackingField: 0
+  - <Name>k__BackingField: Mantenimiento
+    <ID>k__BackingField: 5
+    <Size>k__BackingField: {x: 2, y: 1}
+    <Prefab>k__BackingField: {fileID: 4925811165444642169, guid: 13e8505bcf8c8af48bd1581e6595f4d7, type: 3}
+    <Volume>k__BackingField: 13.09
+    <Height>k__BackingField: 2.1
+    <Area>k__BackingField: 6.233
+    <Width>k__BackingField: 2.35
+    <Length>k__BackingField: 2.652
+    <Oxygen>k__BackingField: 3
+    <Energy>k__BackingField: 5
+    <Water>k__BackingField: 1
+    <Food>k__BackingField: 0
+  - <Name>k__BackingField: Soporte
+    <ID>k__BackingField: 6
+    <Size>k__BackingField: {x: 1, y: 2}
+    <Prefab>k__BackingField: {fileID: 6045534247868499500, guid: 7904139c9cd59bb429e55ae34517df79, type: 3}
+    <Volume>k__BackingField: 9.92
+    <Height>k__BackingField: 2.1
+    <Area>k__BackingField: 4.724
+    <Width>k__BackingField: 2.35
+    <Length>k__BackingField: 2.01
+    <Oxygen>k__BackingField: 3.5
+    <Energy>k__BackingField: 6
+    <Water>k__BackingField: 0.6
+    <Food>k__BackingField: 0
+  - <Name>k__BackingField: Consumos
+    <ID>k__BackingField: 7
+    <Size>k__BackingField: {x: 1, y: 2}
+    <Prefab>k__BackingField: {fileID: 775571451204833697, guid: 74fd5084dfcdacf41bb06faef38be0d2, type: 3}
+    <Volume>k__BackingField: 10.09
+    <Height>k__BackingField: 2.1
+    <Area>k__BackingField: 4.805
+    <Width>k__BackingField: 2.35
+    <Length>k__BackingField: 2.045
+    <Oxygen>k__BackingField: 2
+    <Energy>k__BackingField: 2
+    <Water>k__BackingField: 0.5
+    <Food>k__BackingField: 1.2
+  - <Name>k__BackingField: Preparacion
+    <ID>k__BackingField: 8
+    <Size>k__BackingField: {x: 1, y: 2}
+    <Prefab>k__BackingField: {fileID: 4371000060999685437, guid: f801abcef82e34546945b038eccb3840, type: 3}
+    <Volume>k__BackingField: 10.95
+    <Height>k__BackingField: 2.1
+    <Area>k__BackingField: 5.214
+    <Width>k__BackingField: 2.35
+    <Length>k__BackingField: 2.219
+    <Oxygen>k__BackingField: 2
+    <Energy>k__BackingField: 5
+    <Water>k__BackingField: 0.8
+    <Food>k__BackingField: 0.4
+  - <Name>k__BackingField: Medicos
+    <ID>k__BackingField: 9
+    <Size>k__BackingField: {x: 2, y: 1}
+    <Prefab>k__BackingField: {fileID: 3684038567506891768, guid: 00ea5efcc4b23634e93c436e2f88d462, type: 3}
+    <Volume>k__BackingField: 24.9
+    <Height>k__BackingField: 2.1
+    <Area>k__BackingField: 11.857
+    <Width>k__BackingField: 2.35
+    <Length>k__BackingField: 5.046
+    <Oxygen>k__BackingField: 1.5
+    <Energy>k__BackingField: 3
+    <Water>k__BackingField: 1.5
+    <Food>k__BackingField: 0
+  - <Name>k__BackingField: Planificacion
+    <ID>k__BackingField: 10
+    <Size>k__BackingField: {x: 3, y: 2}
+    <Prefab>k__BackingField: {fileID: 6909079455976457538, guid: 81f31796ed2f9d7408d6ce01372b45a7, type: 3}
+    <Volume>k__BackingField: 36.51
+    <Height>k__BackingField: 2.1
+    <Area>k__BackingField: 17.386
+    <Width>k__BackingField: 2.35
+    <Length>k__BackingField: 7.398
+    <Oxygen>k__BackingField: 1.5
+    <Energy>k__BackingField: 2
+    <Water>k__BackingField: 0.4
+    <Food>k__BackingField: 0
+  - <Name>k__BackingField: Privada
+    <ID>k__BackingField: 11
+    <Size>k__BackingField: {x: 2, y: 1}
+    <Prefab>k__BackingField: {fileID: 3860665326992767712, guid: 56c434f5d1a81dd419891b3df7f550d6, type: 3}
+    <Volume>k__BackingField: 86.04
+    <Height>k__BackingField: 2.1
+    <Area>k__BackingField: 40.971
+    <Width>k__BackingField: 2.35
+    <Length>k__BackingField: 17.435
+    <Oxygen>k__BackingField: 1
+    <Energy>k__BackingField: 1
+    <Water>k__BackingField: 0.4
+    <Food>k__BackingField: 0
+  - <Name>k__BackingField: Monitoreo
+    <ID>k__BackingField: 12
+    <Size>k__BackingField: {x: 2, y: 1}
+    <Prefab>k__BackingField: {fileID: 182251445120089338, guid: d68a4be0fbbede949ac93da6ac23a315, type: 3}
+    <Volume>k__BackingField: 5.12
+    <Height>k__BackingField: 2.1
+    <Area>k__BackingField: 2.438
+    <Width>k__BackingField: 2.35
+    <Length>k__BackingField: 1.037
+    <Oxygen>k__BackingField: 2
+    <Energy>k__BackingField: 3
+    <Water>k__BackingField: 0.5
+    <Food>k__BackingField: 0
+  - <Name>k__BackingField: Residuos
+    <ID>k__BackingField: 13
+    <Size>k__BackingField: {x: 1, y: 2}
+    <Prefab>k__BackingField: {fileID: 2376120049114797051, guid: e588dd4b726052b419a3da54ec8e11d8, type: 3}
+    <Volume>k__BackingField: 6.31
+    <Height>k__BackingField: 2.1
+    <Area>k__BackingField: 3.005
+    <Width>k__BackingField: 2.35
+    <Length>k__BackingField: 1.279
+    <Oxygen>k__BackingField: 0.8
+    <Energy>k__BackingField: 1.2
+    <Water>k__BackingField: 1.5
+    <Food>k__BackingField: 0
+  - <Name>k__BackingField: ConectorA
+    <ID>k__BackingField: 14
+    <Size>k__BackingField: {x: 1, y: 1}
+    <Prefab>k__BackingField: {fileID: 156235637496450206, guid: 9ecf0ec0823fdda4295912b006e399db, type: 3}
+    <Volume>k__BackingField: 0
+    <Height>k__BackingField: 0
+    <Area>k__BackingField: 0
+    <Width>k__BackingField: 0
+    <Length>k__BackingField: 0
+    <Oxygen>k__BackingField: 0
+    <Energy>k__BackingField: 0
+    <Water>k__BackingField: 0
+    <Food>k__BackingField: 0
+  - <Name>k__BackingField: ConectorB
+    <ID>k__BackingField: 15
+    <Size>k__BackingField: {x: 1, y: 1}
+    <Prefab>k__BackingField: {fileID: 1417434106649437690, guid: 3e98a6a34f2a28c4e8bb3b86d40e4f94, type: 3}
+    <Volume>k__BackingField: 0
+    <Height>k__BackingField: 0
+    <Area>k__BackingField: 0
+    <Width>k__BackingField: 0
+    <Length>k__BackingField: 0
+    <Oxygen>k__BackingField: 0
+    <Energy>k__BackingField: 0
+    <Water>k__BackingField: 0
+    <Food>k__BackingField: 0
+  - <Name>k__BackingField: CanectorC
+    <ID>k__BackingField: 16
+    <Size>k__BackingField: {x: 1, y: 1}
+    <Prefab>k__BackingField: {fileID: 1027404676841305166, guid: ab287324672f2024db576cf3c02d83d4, type: 3}
+    <Volume>k__BackingField: 0
+    <Height>k__BackingField: 0
+    <Area>k__BackingField: 0
+    <Width>k__BackingField: 0
+    <Length>k__BackingField: 0
+    <Oxygen>k__BackingField: 0
+    <Energy>k__BackingField: 0
+    <Water>k__BackingField: 0
+    <Food>k__BackingField: 0
+  - <Name>k__BackingField: ConectorD
+    <ID>k__BackingField: 17
+    <Size>k__BackingField: {x: 1, y: 1}
+    <Prefab>k__BackingField: {fileID: 4261629148706919241, guid: 510c7e64c2a92914ca8c0b36631f7bfb, type: 3}
+    <Volume>k__BackingField: 0
+    <Height>k__BackingField: 0
+    <Area>k__BackingField: 0
+    <Width>k__BackingField: 0
+    <Length>k__BackingField: 0
+    <Oxygen>k__BackingField: 0
+    <Energy>k__BackingField: 0
+    <Water>k__BackingField: 0
+    <Food>k__BackingField: 0

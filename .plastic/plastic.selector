@@ -1,0 +1,4 @@
+repository "Nasa@Kurxplay@cloud"
+  path "/"
+    br "/main"
+    co "/main"
